@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.coverpage {
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.dis {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
